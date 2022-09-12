@@ -1,0 +1,14 @@
+{
+  "name": "Warrior",
+  "startingHealth": 100,
+  "skillsMap": {
+    "Strike": {
+      "directDamage": 10,
+      "name": "Strike",
+      "skillCastTime": 1,
+      "skillCooldown": 1,
+      "skillDuration": 0,
+      "type": "DirectDamageSkill"
+    }
+  }
+}
