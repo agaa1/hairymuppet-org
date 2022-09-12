@@ -12,6 +12,7 @@ public abstract class ALiving implements ILoggable {
     // The name of the entity
     protected final String name;
 
+    // Max health
     protected int maxHealth;
     protected int health;
 
