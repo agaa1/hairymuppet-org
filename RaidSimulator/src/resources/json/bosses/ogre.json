@@ -1,0 +1,24 @@
+{
+  "skillsMap": {
+    "Hit": {
+      "directDamage": 5,
+      "name": "Hit",
+      "skillCastTime": 1,
+      "skillCooldown": 1,
+      "skillDuration": 0,
+      "type": "DirectDamageSkill"
+    },
+    "Smash": {
+      "directDamage": 10,
+      "name": "Smash",
+      "skillCastTime": 0,
+      "skillCooldown": 5,
+      "skillDuration": 0,
+      "type": "DirectDamageSkill"
+    }
+  },
+  "name": "Ogre",
+  "maxHealth": 500,
+  "health": 500,
+  "cooldown": {}
+}
